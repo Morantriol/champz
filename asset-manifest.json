@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/champz/static/css/main.0ec1d55b.css",
+    "main.js": "/champz/static/js/main.a7c29506.js",
+    "index.html": "/champz/index.html",
+    "main.0ec1d55b.css.map": "/champz/static/css/main.0ec1d55b.css.map",
+    "main.a7c29506.js.map": "/champz/static/js/main.a7c29506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ec1d55b.css",
+    "static/js/main.a7c29506.js"
+  ]
+}
