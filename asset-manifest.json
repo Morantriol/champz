@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/champz/static/css/main.0ec1d55b.css",
-    "main.js": "/champz/static/js/main.a7c29506.js",
+    "main.css": "/champz/static/css/main.db206b17.css",
+    "main.js": "/champz/static/js/main.73b8666b.js",
+    "static/media/CoA_logo-2x.jpg": "/champz/static/media/CoA_logo-2x.8e6626e3f2ad83602db2.jpg",
+    "static/media/CoA_logo-1x.jpg": "/champz/static/media/CoA_logo-1x.920a03dc86858ed85eda.jpg",
+    "static/media/TikTok.svg": "/champz/static/media/TikTok.7ed89c707e73f597e9f59ab7ee51e7f2.svg",
+    "static/media/Telegram.svg": "/champz/static/media/Telegram.344d8b44b84a975c15682044e7aac988.svg",
+    "static/media/Youtube.svg": "/champz/static/media/Youtube.d40227fc34a63b8f7db68592cd34ae95.svg",
     "index.html": "/champz/index.html",
-    "main.0ec1d55b.css.map": "/champz/static/css/main.0ec1d55b.css.map",
-    "main.a7c29506.js.map": "/champz/static/js/main.a7c29506.js.map"
+    "static/media/Twitter.svg": "/champz/static/media/Twitter.a3302433fe67c3ab5dcab9eddccd9dd5.svg",
+    "main.db206b17.css.map": "/champz/static/css/main.db206b17.css.map",
+    "main.73b8666b.js.map": "/champz/static/js/main.73b8666b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ec1d55b.css",
-    "static/js/main.a7c29506.js"
+    "static/css/main.db206b17.css",
+    "static/js/main.73b8666b.js"
   ]
 }
