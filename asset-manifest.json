@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/champz/static/css/main.1a1f755b.css",
-    "main.js": "/champz/static/js/main.ca55f5f8.js",
+    "main.css": "/champz/static/css/main.52f9e65a.css",
+    "main.js": "/champz/static/js/main.926be7c5.js",
+    "static/media/scheme-2x.png": "/champz/static/media/scheme-2x.452b972739bc7767172d.png",
+    "static/media/p2e-grass-2x.png": "/champz/static/media/p2e-grass-2x.1f6eb497d50f216dba82.png",
+    "static/media/scheme-1x.png": "/champz/static/media/scheme-1x.90b9f4a794f23e75ac59.png",
+    "static/media/p2e-grass-1x.png": "/champz/static/media/p2e-grass-1x.a08a135a3c9739abb177.png",
     "static/media/mushroom-coin-2x.png": "/champz/static/media/mushroom-coin-2x.483b2156af35d6d86ad9.png",
     "static/media/CoA-logo-2x.png": "/champz/static/media/CoA-logo-2x.accb963f3e432f21eaa6.png",
+    "static/media/coin-2x.png": "/champz/static/media/coin-2x.d6c19845a79674a959b6.png",
     "static/media/mushroom-coin-1x.png": "/champz/static/media/mushroom-coin-1x.91495f1ca0fafb8c775b.png",
     "static/media/CoA-logo-1x.png": "/champz/static/media/CoA-logo-1x.b6bab3c27ed87370c946.png",
     "static/media/TikTok.svg": "/champz/static/media/TikTok.7ed89c707e73f597e9f59ab7ee51e7f2.svg",
@@ -12,11 +17,11 @@
     "index.html": "/champz/index.html",
     "static/media/Youtube.svg": "/champz/static/media/Youtube.d40227fc34a63b8f7db68592cd34ae95.svg",
     "static/media/Twitter.svg": "/champz/static/media/Twitter.a3302433fe67c3ab5dcab9eddccd9dd5.svg",
-    "main.1a1f755b.css.map": "/champz/static/css/main.1a1f755b.css.map",
-    "main.ca55f5f8.js.map": "/champz/static/js/main.ca55f5f8.js.map"
+    "main.52f9e65a.css.map": "/champz/static/css/main.52f9e65a.css.map",
+    "main.926be7c5.js.map": "/champz/static/js/main.926be7c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a1f755b.css",
-    "static/js/main.ca55f5f8.js"
+    "static/css/main.52f9e65a.css",
+    "static/js/main.926be7c5.js"
   ]
 }
