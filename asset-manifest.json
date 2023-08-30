@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/champz/static/css/main.7ede19fa.css",
-    "main.js": "/champz/static/js/main.187b5abf.js",
+    "main.css": "/champz/static/css/main.6cac88b5.css",
+    "main.js": "/champz/static/js/main.f6e176b6.js",
+    "static/media/intro-lore-bg-2x.jpg": "/champz/static/media/intro-lore-bg-2x.13d8f6f11f1658b27e55.jpg",
     "static/media/lore-2x.png": "/champz/static/media/lore-2x.55291e8888a13871851c.png",
     "static/media/scheme-2x.png": "/champz/static/media/scheme-2x.452b972739bc7767172d.png",
+    "static/media/tree-2x.jpg": "/champz/static/media/tree-2x.a4e96adbd8ce0ac4689c.jpg",
+    "static/media/build-2x.jpg": "/champz/static/media/build-2x.d4feaaca9f91e268a7b8.jpg",
+    "static/media/teach-2x.jpg": "/champz/static/media/teach-2x.df6cdedb44a1e1912cf3.jpg",
     "static/media/p2e-grass-2x.png": "/champz/static/media/p2e-grass-2x.1f6eb497d50f216dba82.png",
     "static/media/lore-1x.png": "/champz/static/media/lore-1x.4645bb294fa919814eb5.png",
     "static/media/scheme-1x.png": "/champz/static/media/scheme-1x.90b9f4a794f23e75ac59.png",
     "static/media/p2e-grass-1x.png": "/champz/static/media/p2e-grass-1x.a08a135a3c9739abb177.png",
+    "static/media/teach-1x.jpg": "/champz/static/media/teach-1x.17288269e6f79398f578.jpg",
+    "static/media/tree-1x.jpg": "/champz/static/media/tree-1x.ab0dcdf9ca4f902ac5ea.jpg",
+    "static/media/build-1x.jpg": "/champz/static/media/build-1x.37a4eb17975c8f1cb8f4.jpg",
     "static/media/mushroom-coin-2x.png": "/champz/static/media/mushroom-coin-2x.483b2156af35d6d86ad9.png",
     "static/media/CoA-logo-2x.png": "/champz/static/media/CoA-logo-2x.accb963f3e432f21eaa6.png",
     "static/media/coin-2x.png": "/champz/static/media/coin-2x.d6c19845a79674a959b6.png",
@@ -19,11 +26,12 @@
     "index.html": "/champz/index.html",
     "static/media/Youtube.svg": "/champz/static/media/Youtube.d40227fc34a63b8f7db68592cd34ae95.svg",
     "static/media/Twitter.svg": "/champz/static/media/Twitter.a3302433fe67c3ab5dcab9eddccd9dd5.svg",
-    "main.7ede19fa.css.map": "/champz/static/css/main.7ede19fa.css.map",
-    "main.187b5abf.js.map": "/champz/static/js/main.187b5abf.js.map"
+    "static/media/arrow-right.svg": "/champz/static/media/arrow-right.1958f32dae6a51aec3549cd0a69d2cbf.svg",
+    "main.6cac88b5.css.map": "/champz/static/css/main.6cac88b5.css.map",
+    "main.f6e176b6.js.map": "/champz/static/js/main.f6e176b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ede19fa.css",
-    "static/js/main.187b5abf.js"
+    "static/css/main.6cac88b5.css",
+    "static/js/main.f6e176b6.js"
   ]
 }
