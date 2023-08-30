@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/champz/static/css/main.6cac88b5.css",
-    "main.js": "/champz/static/js/main.f6e176b6.js",
+    "main.css": "/champz/static/css/main.5b3a9bec.css",
+    "main.js": "/champz/static/js/main.7baff07b.js",
     "static/media/intro-lore-bg-2x.jpg": "/champz/static/media/intro-lore-bg-2x.13d8f6f11f1658b27e55.jpg",
     "static/media/lore-2x.png": "/champz/static/media/lore-2x.55291e8888a13871851c.png",
     "static/media/scheme-2x.png": "/champz/static/media/scheme-2x.452b972739bc7767172d.png",
@@ -27,11 +27,11 @@
     "static/media/Youtube.svg": "/champz/static/media/Youtube.d40227fc34a63b8f7db68592cd34ae95.svg",
     "static/media/Twitter.svg": "/champz/static/media/Twitter.a3302433fe67c3ab5dcab9eddccd9dd5.svg",
     "static/media/arrow-right.svg": "/champz/static/media/arrow-right.1958f32dae6a51aec3549cd0a69d2cbf.svg",
-    "main.6cac88b5.css.map": "/champz/static/css/main.6cac88b5.css.map",
-    "main.f6e176b6.js.map": "/champz/static/js/main.f6e176b6.js.map"
+    "main.5b3a9bec.css.map": "/champz/static/css/main.5b3a9bec.css.map",
+    "main.7baff07b.js.map": "/champz/static/js/main.7baff07b.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cac88b5.css",
-    "static/js/main.f6e176b6.js"
+    "static/css/main.5b3a9bec.css",
+    "static/js/main.7baff07b.js"
   ]
 }
